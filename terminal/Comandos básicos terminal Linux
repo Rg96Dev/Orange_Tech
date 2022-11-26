@@ -1,0 +1,16 @@
+- O primeiro passo a ser entedido é que no OS Linux quando você abri algum diretorios e clica com o botão direito do mouse e clica em "Abrir terminal", o terminal será aberto no diretorio onde você esta localizado
+
+Alguns comandos básicos para utilizar o terminal:
+- pwd: mostra o caminho percorrido até onde você esta
+- ls: lista de arquivos do diretorio que você esta
+- mkdir +nome da pasta: criar diretorio
+- rmdir +nome da pasta: exclui diretorio
+- cat +nome do arquivo: mostra o conteudo do arquivo
+- nano +nome do arquivo: edita o arquivo dentro do terminal
+(nano requer mais estudos para ser utilizado)
+- cd +nome do diretorio: ti leva até a pasta onde vc quer entrar
+- cd .. faz com que vc volte um nível do local onde você se encontra
+
+A tecla ENTER confirma a excussão do comando que você aplica no terminal
+A tecla TAB completa o comando que vc está digitando no terminal
+
